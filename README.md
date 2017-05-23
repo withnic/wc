@@ -1,0 +1,2 @@
+# wc
+go wc command
